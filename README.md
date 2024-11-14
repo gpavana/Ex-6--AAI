@@ -3,7 +3,7 @@
 ### DEVELOPED BY : PAVANA G
 ### REGISTER NUMBER:212222230105
 ### Aim: 
-To perform Parts of speech identification and Synonym using Natural Language &emsp;&emsp;&emsp;&emsp;**DATE :22-10-2024**<br>Processing (NLP) techniques.
+To perform Parts of speech identification and Synonym using Natural Language Processing
 ### Algorithm:
 Step 1: Import the nltk library.<br>
 Step 2: Download the 'punkt', 'wordnet', and 'averaged_perceptron_tagger' resources.<br>
